@@ -1,0 +1,158 @@
+{
+  "accountCategory": "credit_cards",
+  "accountNumber": "******58",
+  "address": {
+    "buildingName": "15C",
+    "format": "UK",
+    "postcode": "SE22 0SE",
+    "street": "FRIAR ROAD",
+    "town": "LONDON"
+  },
+  "contentKey": "barclaycard",
+  "displayName": "Barclaycard",
+  "key": "2e6e5c37e1259a7cc3e4635756dd26d2",
+  "name": "MR SIMON EVERYTHING",
+  "overview": {
+    "lastUpdated": "2016-10-19",
+    "utilization": 0.07,
+    "balance": {
+      "amount": 423,
+      "currency": "GBP"
+    },
+    "frequency": "monthly",
+    "limit": {
+      "amount": 6500,
+      "currency": "GBP"
+    },
+    "accountOpened": "2014-08-01"
+  },
+  "paymentHistory": [
+    {
+      "month": 9,
+      "paymentStatus": "on_time",
+      "year": 2014
+    },
+    {
+      "month": 10,
+      "paymentStatus": "on_time",
+      "year": 2014
+    },
+    {
+      "month": 11,
+      "paymentStatus": "on_time",
+      "year": 2014
+    },
+    {
+      "month": 12,
+      "paymentStatus": "on_time",
+      "year": 2014
+    },
+    {
+      "month": 1,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 2,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 3,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 4,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 5,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 6,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 7,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 8,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 9,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 10,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 11,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 12,
+      "paymentStatus": "on_time",
+      "year": 2015
+    },
+    {
+      "month": 1,
+      "paymentStatus": "on_time",
+      "year": 2016
+    },
+    {
+      "month": 2,
+      "paymentStatus": "on_time",
+      "year": 2016
+    },
+    {
+      "month": 3,
+      "paymentStatus": "on_time",
+      "year": 2016
+    },
+    {
+      "month": 4,
+      "paymentStatus": "on_time",
+      "year": 2016
+    },
+    {
+      "month": 5,
+      "paymentStatus": "on_time",
+      "year": 2016
+    },
+    {
+      "month": 6,
+      "paymentStatus": "on_time",
+      "year": 2016
+    },
+    {
+      "month": 7,
+      "paymentStatus": "on_time",
+      "year": 2016
+    },
+    {
+      "month": 8,
+      "paymentStatus": "on_time",
+      "year": 2016
+    },
+    {
+      "month": 9,
+      "paymentStatus": "on_time",
+      "year": 2016
+    }
+  ],
+  "status": "k",
+  "supplierName": "Barclaycard"
+}

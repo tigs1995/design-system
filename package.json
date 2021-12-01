@@ -1,0 +1,47 @@
+{
+  "name": "lunch-picker",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@react-navigation/native": "^6.0.6",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/react": "^17.0.35",
+    "@types/react-dom": "^17.0.11",
+    "axios": "^0.24.0",
+    "framer-motion": "^4.1.17",
+    "jest-mock-axios": "^4.4.1",
+    "nock": "^13.2.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "swr": "^1.0.1",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^8.11.1",
+    "@testing-library/jest-dom": "^5.15.1",
+    "@testing-library/react": "^11.1.0",
+    "@types/node": "^16.11.9",
+    "@typescript-eslint/parser": "^5.4.0",
+    "typescript": "^4.5.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
